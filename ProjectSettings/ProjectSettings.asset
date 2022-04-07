@@ -140,7 +140,14 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 11400000, guid: c4ba89891351e5d4781c58033749b6be, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 1ef5cf11c7ac7f44fa9cc38f73bce19a, type: 2}
+  - {fileID: 0}
+  - {fileID: -163055289313801521, guid: 65c683b8561fc42a5a895797b9b76657, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -158,7 +165,9 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: com.DefaultCompany.QuestXRInteractToolkit
     Standalone: com.DefaultCompany.QuestXRInteractToolkit
+    iPhone: com.DefaultCompany.QuestXRInteractToolkit
   buildNumber:
     Standalone: 0
     iPhone: 0
